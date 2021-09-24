@@ -1,0 +1,4 @@
+Changed in folder 1
+New changes in folder 1
+Another change!!!
+Another one!!!
