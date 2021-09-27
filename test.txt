@@ -3,3 +3,4 @@ New changes in folder 1
 Another change!!!
 Another one!!!
 After first commit.
+Another one...
